@@ -1,4 +1,4 @@
-baseURL = 'http://dolliver.co.uk/'
+baseURL = 'https://dolliver.co.uk/'
 languageCode = 'en-gb'
 title = 'Dolliver IT Services'
-theme = "terminal"
+theme = "introduction"
