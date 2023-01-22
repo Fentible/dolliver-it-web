@@ -1,8 +1,8 @@
 # Hey, thanks for using my theme. If you like this theme,checkout my repo (https://gitlab.com/avron/gruvhugo"
 # and drop a star while you're at it. ;)
-baseurl = "https://examplesite.com/"
-title = "Jane Doe"
-languageCode = "en-us"
+baseurl = "https://www.dolliver.co.uk/"
+title = "Dolliver IT Services"
+languageCode = "en-gb"
 paginate = "10" # Number of posts per page
 #disqusShortname = "" # Enable comments by entering your Disqus shortname
 #googleAnalytics = "" # Enable Google Analytics by entering your tracking id
@@ -29,40 +29,40 @@ metaDataFormat= "yaml"
   enabled = true
   enableKatex = true
   metaKeywords = "fast, hugo, theme, minimal, gruvbox"
-  headerTitle = "Jane Doe"
-  copyright = "© 2021 Jane Doe.  <a href=\"https://creativecommons.org/licenses/by/4.0/\">Some rights reserved</a>."
-  name = "jane_doe"
+  headerTitle = "Dolliver IT Services"
+  copyright = "© 2023 David Dolliver    <a href=\"https://github.com/abrahamparayil/gruvhugo\"> Constructed using the GruvHugo theme</a>."
+  name = "David Dolliver"
   img = "img/author.jpg"
-  img_title = "Thanks to Christina @ wocintechchat.com for this photo."
+  img_title = "This is me"
   icon = "img/logo.png"
-  quote = "A nice quote that you like that describes the beautiful person you are."
+  quote = "Just a man, with a man's courage"
   description= "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque viverra mauris in aliquam. Quis risus sed vulputate odio ut. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Bibendum at varius vel pharetra vel turpis. Semper viverra nam libero justo laoreet sit amet cursus. Mauris a diam maecenas sed enim ut sem."
   licenseUrl = ""
 
  # Social icons
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://gitlab.com/avron/gruvhugo"
+ # [[params.social]]
+ #   name = "gitlab"
+ #   url  = "https://gitlab.com/avron/gruvhugo"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:mail@mail.com"
+    url  = "mailto:david@dolliver.co.uk"
 
-  [[params.social]]
-    name = "gpg"
-    url  = "https://keys.openpgp.org/"
+  #[[params.social]]
+  #  name = "gpg"
+  #  url  = "https://keys.openpgp.org/"
 
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/"
+  #[[params.social]]
+  #  name = "twitter"
+  #  url  = "https://twitter.com/"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/"
+  #[[params.social]]
+  #  name = "github"
+  #  url  = "https://github.com/"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/"
+  #[[params.social]]
+  #  name = "linkedin"
+  #  url  = "https://www.linkedin.com/"
 
 [params.style]
   # add path to custom CSS files here
@@ -71,20 +71,20 @@ metaDataFormat= "yaml"
   custom_scss = []
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about"
+  #[[menu.main]]
+  #  identifier = "about"
+  #  name       = "About"
+  #  url        = "about"
 
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "post/"
+  #[[menu.main]]
+  #  identifier = "posts"
+  #  name       = "Posts"
+  #  url        = "post/"
 
-  [[menu.main]]
-    identifier = "wiki"
-    name       = "Wiki"
-    url        = "none"
+  #[[menu.main]]
+  #  identifier = "wiki"
+  #  name       = "Wiki"
+  #  url        = "none"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
