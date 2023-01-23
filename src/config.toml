@@ -36,7 +36,7 @@ metaDataFormat= "yaml"
   img_title = "This is me"
   icon = "img/logo.png"
   quote = "IT Support in the Edinburgh Area"
-  description= "Hi. I'm David Dolliver and I've been helping small businesses with their IT needs since 2008. I can help with everything from the day-to-day running of your computers and network, to advising on infrastructure and cloud services.<br>Call me on 07754595389 or email at <a href="mailto:david@dolliver.co.uk?subject=Website&20Enquiry">david@dolliver.co.uk</a>."
+  description= "Hi. I'm David Dolliver and I've been helping small businesses with their IT needs since 2008. I can help with everything from the day-to-day running of your computers and network, to advising on infrastructure and cloud services.<br><br>Call me on 07754595389 or email at david@dolliver.co.uk."
   licenseUrl = ""
 
  # Social icons
